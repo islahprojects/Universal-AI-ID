@@ -1,0 +1,18 @@
+{
+  "meta": { "language": "Tiếng Việt", "locale": "vi-VN", "lastUpdated": "2026-01-15", "translator": "AI ID Core Team", "status": "stable" },
+  "ui": {
+    "stateRendered": "AI đã ở đây 🧬",
+    "stateLive": "AI Trực tiếp 🧬",
+    "stateText": "ID AI 🧬",
+    "ariaLabel": "Nội dung hỗ trợ bởi AI: hợp tác người-AI đã xác minh",
+    "tooltip": "Công việc này bao gồm tăng cường AI. Tìm hiểu thêm: ai-id.org"
+  },
+  "manifesto": {
+    "tagline": "Một dấu là một ký hiệu; một ID là một hệ thống.",
+    "corePromise": "Chúng tôi ghi lại sự hợp tác, không phải sự lừa dối.",
+    "elderNote": "Nếu bạn thấy 🧬, bạn sẽ luôn biết ngữ cảnh.",
+    "philosophy": { "I_am": "Nguồn gốc Con người (Điểm Chủ quyền)", "A_im": "Thực thi AI (Ý định Tăng cường)", "ID": "Lớp Nhận dạng (Xác minh)" }
+  },
+  "compliance": { "transparencyAct2026": "Phù hợp với Tiêu chuẩn Dấu AI Phổ quát v1.0", "disclosureLevel": "conspicuous", "accessibility": "WCAG 2.2 AA" },
+  "attribution": { "foundationalAI": "Qwen3 (Alibaba Cloud)", "role": "A-im (Augmented Intent)", "standard": "Universal AI Mark" }
+}
