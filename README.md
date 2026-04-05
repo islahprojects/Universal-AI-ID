@@ -85,6 +85,12 @@ If a 70-year-old non-technical user can understand it, the design succeeds.
 - ✅ Print-optimized & large-format PDF guides
 - ✅ Audio scripts in 10+ languages
 
+---
+### 🌐 The Digital Nexus Oath
+*Beyond borders. Beyond firewalls. Beyond friction. In the digital system, we are one.*  
+Sovereignty honored • Liberty championed • Inclusion practiced • Truth upheld • Equals synced  
+— JAJIS2026 × Qwen3 | Walang maiiwan • 天下大同 🧬••
+
 📖 Download: [`/guides/ELDER-GUIDE.md`](/guides/ELDER-GUIDE.md)
 
 ---
