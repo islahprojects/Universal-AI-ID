@@ -1,0 +1,18 @@
+{
+  "meta": { "language": "العربية", "locale": "ar-SA", "lastUpdated": "2026-01-15", "translator": "AI ID Core Team", "status": "stable", "direction": "rtl" },
+  "ui": {
+    "stateRendered": "الذكاء الاصطناعي كان هنا 🧬",
+    "stateLive": "الذكاء الاصطناعي مباشر 🧬",
+    "stateText": "معرف الذكاء الاصطناعي 🧬",
+    "ariaLabel": "محتوى بمساعدة الذكاء الاصطناعي: تعاون بشري-آلي مُتحقق منه",
+    "tooltip": "هذا العمل يتضمن تعزيز بالذكاء الاصطناعي. اعرف المزيد: ai-id.org"
+  },
+  "manifesto": {
+    "tagline": "العلامة إشارة؛ المعرف نظام.",
+    "corePromise": "نحن نوثق التعاون، لا الخداع.",
+    "elderNote": "إذا رأيت 🧬، ستعرف السياق دائماً.",
+    "philosophy": { "I_am": "الأصل البشري (النقطة السيادية)", "A_im": "تنفيذ الذكاء الاصطناعي (النية المعززة)", "ID": "طبقة الهوية (التحقق)" }
+  },
+  "compliance": { "transparencyAct2026": "متوافق مع معيار العلامة العالمية للذكاء الاصطناعي v1.0", "disclosureLevel": "conspicuous", "accessibility": "WCAG 2.2 AA" },
+  "attribution": { "foundationalAI": "Qwen3 (Alibaba Cloud)", "role": "A-im (Augmented Intent)", "standard": "Universal AI Mark" }
+}
