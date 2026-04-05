@@ -108,6 +108,8 @@ The Universal AI Mark (AI ID 🧬) is designed as a **jurisdiction-agnostic, vol
 ### HTML Attribute Standard
 
 
+
+
 JavaScript Audit Function
 
 function generateComplianceReport() {
@@ -140,24 +142,5 @@ function generateComplianceReport() {
 </div>
 
 
-Voluntary Adoption Model
-Important: AI ID is offered as a reference implementation, not a regulatory mandate.
-For Governments & Regulators
-Reference, don't mandate: Cite AI ID as an acceptable method to satisfy disclosure requirements
-Adapt as needed: Fork, localize, and modify for national contexts
-Maintain the 🧬: We request the DNA symbol remain visible as a universal marker
-For Developers & Platforms
-Implement voluntarily: Adopt AI ID to demonstrate proactive compliance
-Document your stack: Use data-ai-id-model to disclose which AI system was used
-Test with users: Ensure accessibility for elderly and non-technical audiences
-Legal Disclaimer
-This document is for informational purposes only and does not constitute legal advice. Regulatory frameworks evolve rapidly. Implementers should consult qualified legal counsel to ensure compliance with applicable laws in their jurisdiction.
-The AI ID Standard is provided "as-is" under the MIT License. The authors and contributors make no warranties regarding legal compliance and disclaim all liability for regulatory violations arising from implementation.
-Next Review: Q2 2026
-Contributors: Legal & Policy Working Group
-Contact: legal@ai-id.org
-"We do not seek to replace national standards.
-We seek to offer a common visual language
-so that wherever truth is shared,
-it is shared clearly."
+
 
