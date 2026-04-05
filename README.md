@@ -1,26 +1,25 @@
-# 🧬 AI ID: The Sovereign Attribution Standard (SAAS)
+# 🌍 The Universal AI Mark (AI ID 🧬)
+> Visible Truth. Human-First. Globally Aligned. *Walang Maiiwan.*
 
-## 1. Abstract
-The **AI ID** is a persistent, state-aware visual indicator designed to ensure transparency in AI-generated and AI-augmented media. It prioritizes "KindTruth" by providing a constant "Cognitive Anchor" for all demographics—specifically the elderly and digital novices.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Accessibility: WCAG 2.2 AA](https://img.shields.io/badge/Accessibility-WCAG%202.2%20AA-brightgreen)](/assets/ai-id-universal.css)
+[![i18n: 10+ Launch Locales](https://img.shields.io/badge/i18n-10%2B%20Locales-blue)](/locales/)
+[![Status: Reference Implementation](https://img.shields.io/badge/Status-Reference%20Implementation-orange)](/universal/README.md)
 
-## 2. The Logic of Presence: I am / A im
-The AI ID recognizes the partnership between Human Intent and Algorithmic Execution.
+---
 
-| Component | Philosophical Identity | Technical Function | Institutional Role |
-| :--- | :--- | :--- | :--- |
-| **I am** | The Sovereign "Dot" | Source of Intent & Prompts | **Human Architect** |
-| **A im** | The Augmented "Mirror" | Algorithmic Processing | **Digital Partner** |
-| **AI ID** | The "Handshake" | Persistent Attribution (`AI🧬`) | **Verification Layer** |
+## 📖 What Is It?
+The **Universal AI Mark** is a persistent, state-aware visual attribution standard for AI-assisted content. It does not label media as "fake" or "synthetic." It documents collaboration.
 
-## 3. Implementation Matrix (State-Based)
+Designed as a voluntary reference implementation, AI ID satisfies global "conspicuous disclosure" requirements while prioritizing human readability, elder inclusion, and cross-cultural clarity. It is the quiet handshake between creator and tool.
 
-| Media State | Identity String | Visual Placement | Duration |
-| :--- | :--- | :--- | :--- |
-| **Rendered (Video/Image)** | `AI was here 🧬` | Bottom-Right Overlay | **100% (Persistent)** |
-| **Live (Streaming/AR)** | `AI Here 🧬` | Real-time Corner Bug | **Active Session** |
-| **Document/Text** | `AI ID 🧬` | Header or Footer | **Static** |
+---
 
-## 4. Visual Standards
-- **Opacity:** 35% - 50% (Semi-transparent to maintain aesthetic integrity).
-- **Typography:** Standard Sans-Serif (Arial/Inter) for universal legibility.
-- **Persistence:** Required for the total duration of the asset to protect "late-entry" viewers.
+## 🧠 The Core Philosophy
+Creation is rarely purely human or purely machine. AI ID formalizes the partnership through a three-part lexicon:
+
+| Layer | Meaning | Role |
+|-------|---------|------|
+| `I am` | The Sovereign Point | Human intent, curation, ethical oversight |
+| `A-im` | Augmented Intent | AI execution, generation, transformation |
+| `ID` | Verified Presence | Persistent marker certifying the collaboration |
