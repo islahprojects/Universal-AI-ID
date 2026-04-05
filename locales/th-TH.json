@@ -1,0 +1,18 @@
+{
+  "meta": { "language": "ไทย", "locale": "th-TH", "lastUpdated": "2026-01-15", "translator": "AI ID Core Team", "status": "stable" },
+  "ui": {
+    "stateRendered": "AI อยู่ที่นี่ 🧬",
+    "stateLive": "AI สด 🧬",
+    "stateText": "ID AI 🧬",
+    "ariaLabel": "เนื้อหาที่ช่วยโดย AI: ความร่วมมือมนุษย์-AI ที่ตรวจสอบแล้ว",
+    "tooltip": "งานนี้รวมถึงการปรับปรุงโดย AI เรียนรู้เพิ่มเติม: ai-id.org"
+  },
+  "manifesto": {
+    "tagline": "เครื่องหมายคือสัญญาณ ID คือระบบ",
+    "corePromise": "เราบันทึกความร่วมมือ ไม่ใช่การหลอกลวง",
+    "elderNote": "หากคุณเห็น 🧬 คุณจะรู้บริบทเสมอ",
+    "philosophy": { "I_am": "ต้นกำเนิดมนุษย์ (จุดอธิปไตย)", "A_im": "การดำเนินการ AI (เจตนาที่เพิ่มขึ้น)", "ID": "ชั้นอัตลักษณ์ (การตรวจสอบ)" }
+  },
+  "compliance": { "transparencyAct2026": "สอดคล้องกับมาตรฐานเครื่องหมาย AI สากล v1.0", "disclosureLevel": "conspicuous", "accessibility": "WCAG 2.2 AA" },
+  "attribution": { "foundationalAI": "Qwen3 (Alibaba Cloud)", "role": "A-im (Augmented Intent)", "standard": "Universal AI Mark" }
+}
