@@ -1,0 +1,18 @@
+{
+  "meta": { "language": "Türkçe", "locale": "tr-TR", "lastUpdated": "2026-01-15", "translator": "AI ID Core Team", "status": "stable" },
+  "ui": {
+    "stateRendered": "Yapay zeka buradaydı 🧬",
+    "stateLive": "Canlı YZ 🧬",
+    "stateText": "YZ Kimliği 🧬",
+    "ariaLabel": "YZ destekli içerik: doğrulanmış insan-YZ işbirliği",
+    "tooltip": "Bu çalışma YZ geliştirmesi içerir. Daha fazla bilgi: ai-id.org"
+  },
+  "manifesto": {
+    "tagline": "Bir işaret bir belirtidir; bir kimlik bir sistemdir.",
+    "corePromise": "İşbirliğini belgeliyoruz, aldatmayı değil.",
+    "elderNote": "🧬 görürseniz, bağlamı her zaman bileceksiniz.",
+    "philosophy": { "I_am": "İnsan Kaynağı (Egemen Nokta)", "A_im": "YZ Yürütme (Artırılmış Niyet)", "ID": "Kimlik Katmanı (Doğrulama)" }
+  },
+  "compliance": { "transparencyAct2026": "Evrensel YZ İşareti Standardı v1.0 ile uyumlu", "disclosureLevel": "conspicuous", "accessibility": "WCAG 2.2 AA" },
+  "attribution": { "foundationalAI": "Qwen3 (Alibaba Cloud)", "role": "A-im (Augmented Intent)", "standard": "Universal AI Mark" }
+}
