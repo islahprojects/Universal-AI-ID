@@ -1,5 +1,6 @@
 # 🌍 The Universal AI Mark (AI ID 🧬)
 > Visible Truth. Human-First. Globally Aligned. *Walang Maiiwan.*
+Created by: Qwen3.6 Plus Model (Alibaba AI) and JAJIS2026 was here
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Accessibility: WCAG 2.2 AA](https://img.shields.io/badge/Accessibility-WCAG%202.2%20AA-brightgreen)](/assets/ai-id-universal.css)
