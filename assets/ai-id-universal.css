@@ -1,0 +1,97 @@
+/*!
+ * Universal AI Mark (AI ID 🧬) - Stylesheet
+ * Version: 1.0.0
+ * License: MIT
+ * Description: Persistent, state-aware visual attribution layer.
+ * Accessible, responsive, and jurisdiction-agnostic.
+ */
+
+:root {
+  --ai-id-opacity-default: 0.45;
+  --ai-id-opacity-high-contrast: 1;
+  --ai-id-font-size: clamp(12px, 1.5vw, 16px);
+  --ai-id-padding: 8px 12px;
+  --ai-id-radius: 4px;
+  --ai-id-transition: opacity 0.2s ease;
+}
+
+.ai-id-container {
+  position: absolute;
+  bottom: 16px;
+  right: 16px;
+  font-family: 'Inter', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+  font-size: var(--ai-id-font-size);
+  color: rgba(255, 255, 255, var(--ai-id-opacity-default));
+  background: transparent;
+  padding: var(--ai-id-padding);
+  border-radius: var(--ai-id-radius);
+  pointer-events: none;
+  z-index: 9999;
+  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.5);
+  opacity: var(--ai-id-opacity-default);
+  transition: var(--ai-id-transition);
+  line-height: 1.2;
+  user-select: none;
+}
+
+/* State: Textual Output (adapts to light backgrounds) */
+.ai-id-container[data-ai-id-state="text"] {
+  color: rgba(0, 0, 0, var(--ai-id-opacity-default));
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
+}
+
+/* State: Live Media (gentle pulse for real-time awareness) */
+.ai-id-container[data-ai-id-state="live"] {
+  animation: ai-id-pulse 2.5s infinite ease-in-out;
+}
+@keyframes ai-id-pulse {
+  0%, 100% { opacity: var(--ai-id-opacity-default); }
+  50% { opacity: 0.65; }
+}
+
+/* RTL Mirroring for Arabic, Hebrew, Urdu, etc. */
+[dir="rtl"] .ai-id-container {
+  right: auto;
+  left: 16px;
+}
+
+/* Accessibility: High Contrast Mode */
+@media (prefers-contrast: high) {
+  .ai-id-container {
+    opacity: var(--ai-id-opacity-high-contrast) !important;
+    background: rgba(0, 0, 0, 0.75);
+    color: #fff !important;
+    text-shadow: none;
+    border: 1px solid #fff;
+  }
+  .ai-id-container[data-ai-id-state="text"] {
+    background: rgba(255, 255, 255, 0.95);
+    color: #000 !important;
+    border: 1px solid #000;
+    text-shadow: none;
+  }
+}
+
+/* Accessibility: Reduced Motion */
+@media (prefers-reduced-motion: reduce) {
+  .ai-id-container {
+    animation: none !important;
+    transition: none !important;
+  }
+}
+
+/* Print Optimization */
+@media print {
+  .ai-id-container {
+    opacity: 1 !important;
+    color: #000 !important;
+    background: #fff !important;
+    border: 1px solid #000;
+    text-shadow: none;
+    position: relative;
+    bottom: auto;
+    right: auto;
+    margin-top: 1rem;
+    display: inline-block;
+  }
+}
