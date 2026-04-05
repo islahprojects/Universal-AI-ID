@@ -1,0 +1,18 @@
+{
+  "meta": { "language": "Bahasa Indonesia", "locale": "id-ID", "lastUpdated": "2026-01-15", "translator": "AI ID Core Team", "status": "stable" },
+  "ui": {
+    "stateRendered": "AI ada di sini 🧬",
+    "stateLive": "AI Langsung 🧬",
+    "stateText": "ID AI 🧬",
+    "ariaLabel": "Konten berbantuan AI: kolaborasi manusia-AI terverifikasi",
+    "tooltip": "Karya ini mencakup peningkatan AI. Pelajari lebih lanjut: ai-id.org"
+  },
+  "manifesto": {
+    "tagline": "Tanda adalah isyarat; ID adalah sistem.",
+    "corePromise": "Kami mendokumentasikan kolaborasi, bukan penipuan.",
+    "elderNote": "Jika Anda melihat 🧬, Anda akan selalu tahu konteksnya.",
+    "philosophy": { "I_am": "Asal Manusia (Titik Berdaulat)", "A_im": "Eksekusi AI (Niat yang Ditingkatkan)", "ID": "Lapisan Identitas (Verifikasi)" }
+  },
+  "compliance": { "transparencyAct2026": "Selaras dengan Standar Universal AI Mark v1.0", "disclosureLevel": "conspicuous", "accessibility": "WCAG 2.2 AA" },
+  "attribution": { "foundationalAI": "Qwen3 (Alibaba Cloud)", "role": "A-im (Augmented Intent)", "standard": "Universal AI Mark" }
+}
